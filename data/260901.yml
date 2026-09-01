@@ -1,0 +1,60 @@
+about:
+  description: Alibaba Cloud CLI
+  license: Apache-2.0
+  homepage: https://help.aliyun.com/zh/cli/
+  head: eadd68d
+  archived: false
+  latestVersion: v3.4.11
+  collectedAt: 2026-09-01T05:01:54Z
+timeline:
+  created: 2015-06-30
+  lastCommit: 2026-07-30
+  lastRelease: 2026-07-29
+popularity:
+  star: 1096
+  watcher: 44
+  fork: 234
+  release: 360
+  contributor: 57
+  pullRequest: 567
+  issue: 286
+language:
+  Go: 4764518
+  Shell: 25507
+  Makefile: 3498
+  PowerShell: 3005
+  Go Template: 1593
+totalLine: 4798121
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 10
+    openPR: 2
+    closedIssue: 0
+    openIssue: 3
+    commit: 0
+  last90d:
+    since: 2026-06-03
+    release: 17
+    mergedPR: 51
+    openPR: 5
+    closedIssue: 1
+    openIssue: 8
+    commit: 53
+  last180d:
+    since: 2026-03-05
+    release: 38
+    mergedPR: 86
+    openPR: 5
+    closedIssue: 8
+    openIssue: 10
+    commit: 114
+  last360d:
+    since: 2025-09-06
+    release: 66
+    mergedPR: 100
+    openPR: 11
+    closedIssue: 10
+    openIssue: 15
+    commit: 156
