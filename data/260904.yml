@@ -7,7 +7,7 @@ about:
   head: eadd68d
   archived: false
   latestVersion: v3.4.11
-  collectedAt: 2026-09-04T19:29:14Z
+  collectedAt: 2026-09-04T21:07:53Z
 timeline:
   created: 2015-06-30
   lastCommit: 2026-07-30
@@ -84,6 +84,54 @@ total:
   openIssue: 35
   commit: 1245
 ---
+path: /home/runner/.x-repo/github.com/aliyun/aliyun-cli
+collectedAt: 2026-09-04T21:07:54Z
+loc:
+  Go:
+    code: 128035
+    comments: 8425
+    blanks: 20569
+    files: 396
+  Json:
+    code: 1224
+    comments: 0
+    blanks: 0
+    files: 2
+  Sh:
+    code: 531
+    comments: 29
+    blanks: 178
+    files: 14
+  PowerShell:
+    code: 83
+    comments: 0
+    blanks: 17
+    files: 1
+  Bash:
+    code: 78
+    comments: 16
+    blanks: 17
+    files: 7
+  Makefile:
+    code: 57
+    comments: 0
+    blanks: 19
+    files: 1
+  Protobuf:
+    code: 25
+    comments: 0
+    blanks: 8
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1023
+    blanks: 432
+    files: 8
+total:
+  code: 130249
+  comments: 9495
+  blanks: 21242
+  files: 430
 ---
 date: "2026-08-24"
 repo:
