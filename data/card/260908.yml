@@ -5,7 +5,7 @@ about:
   head: f1abad5
   archived: false
   latestVersion: "v3.5.0"
-  collectedAt: 2026-09-08T01:45:46Z
+  collectedAt: 2026-09-08T04:25:34Z
 timeline:
   created: 2015-06-30
   lastCommit: 2026-09-07
@@ -83,7 +83,7 @@ total:
   commit: 1248
 ---
 path: /home/runner/.x-repo/github.com/aliyun/aliyun-cli
-collectedAt: 2026-09-08T01:45:50Z
+collectedAt: 2026-09-08T04:25:37Z
 loc:
   Go:
     code: 181245
