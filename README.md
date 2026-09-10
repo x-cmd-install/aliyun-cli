@@ -23,23 +23,35 @@ x install aliyun-cli
 - **Latest**: `v3.5.0` (2026-09-07)
 - **Last commit**: 2026-09-07
 - **Assets in release**: 8
-- **Published**: 2026-09-07T04:03:52Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [aliyun-cli-3.5.0.pkg](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-3.5.0.pkg) | 148.6 MiB | `other` |
+| [aliyun-cli-linux-3.5.0-amd64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-linux-3.5.0-amd64.tgz) | 73.6 MiB | `native/linux/x64` |
+| [aliyun-cli-linux-3.5.0-arm64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-linux-3.5.0-arm64.tgz) | 72.3 MiB | `native/linux/arm64` |
+| [aliyun-cli-macosx-3.5.0-amd64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-macosx-3.5.0-amd64.tgz) | 74.9 MiB | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.0-arm64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-macosx-3.5.0-arm64.tgz) | 73.7 MiB | `native/darwin/arm64` |
+| [aliyun-cli-macosx-3.5.0-universal.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-macosx-3.5.0-universal.tgz) | 148.6 MiB | `native/darwin/x64` |
+| [aliyun-cli-windows-3.5.0-amd64.zip](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-windows-3.5.0-amd64.zip) | 74.8 MiB | `native/win/x64` |
+| [SHASUMS256.txt](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/SHASUMS256.txt) | 690 B | `other` |
 
 ## Popularity
 
-- **Stars**: 1,101 · **Forks**: 235 · **Open issues**: 286 · **Contributors**: 57
+- **Stars**: 1,101 · **Forks**: 235 · **Open issues**: 287 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 361 · **Merged PRs**: 578 · **Open PRs**: 21 · **Closed issues**: 251 · **Open issues**: 35 · **Commits**: 1248
+- **Releases**: 361 · **Merged PRs**: 579 · **Open PRs**: 20 · **Closed issues**: 251 · **Open issues**: 36 · **Commits**: 1248
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 22 | 7 | 0 | 2 | 3 |
-| 90d | 2026-06-12 | 13 | 57 | 10 | 1 | 7 | 51 |
-| 360d | 2025-09-15 | 66 | 111 | 16 | 10 | 14 | 159 |
+| 30d | 2026-08-11 | 1 | 23 | 6 | 0 | 3 | 3 |
+| 90d | 2026-06-12 | 13 | 58 | 9 | 1 | 8 | 51 |
+| 360d | 2025-09-15 | 66 | 112 | 15 | 10 | 15 | 159 |
 
 ## Code size
 
@@ -68,8 +80,8 @@ Lowest-scoring checks:
 Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aliyun-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/aliyun-cli.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/aliyun-cli.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:31:28Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:15:40Z._
