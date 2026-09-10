@@ -7,7 +7,7 @@ about:
   latestVersion: "v3.5.0"
   latestRelease: "v3.5.0"
   latestPrerelease: "v3.3.9"
-  collectedAt: 2026-09-10T16:15:30Z
+  collectedAt: 2026-09-10T20:26:24Z
 timeline:
   created: 2015-06-30
   lastCommit: 2026-09-07
@@ -87,7 +87,7 @@ total:
   commit: 1248
 ---
 path: /home/runner/.x-repo/github.com/aliyun/aliyun-cli
-collectedAt: 2026-09-10T16:15:34Z
+collectedAt: 2026-09-10T20:26:28Z
 loc:
   Go:
     code: 181245
