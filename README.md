@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 361 · **Merged PRs**: 581 · **Open PRs**: 19 · **Closed issues**: 251 · **Open issues**: 37 · **Commits**: 1248
+- **Releases**: 361 · **Merged PRs**: 582 · **Open PRs**: 18 · **Closed issues**: 251 · **Open issues**: 37 · **Commits**: 1248
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 25 | 5 | 0 | 4 | 3 |
-| last60d | 2026-07-15 | 6 | 42 | 6 | 0 | 7 | 10 |
-| 90d | 2026-06-15 | 13 | 60 | 8 | 1 | 7 | 50 |
-| last180d | 2026-03-17 | 35 | 100 | 8 | 8 | 12 | 111 |
-| 360d | 2025-09-18 | 66 | 114 | 14 | 10 | 16 | 153 |
-| last720d | 2024-09-23 | 100 | 177 | 15 | 24 | 23 | 302 |
+| 30d | 2026-08-15 | 1 | 26 | 4 | 0 | 4 | 3 |
+| last60d | 2026-07-16 | 5 | 39 | 5 | 0 | 7 | 10 |
+| 90d | 2026-06-16 | 13 | 61 | 6 | 1 | 7 | 50 |
+| last180d | 2026-03-18 | 35 | 101 | 7 | 8 | 12 | 111 |
+| 360d | 2025-09-19 | 65 | 115 | 13 | 10 | 16 | 153 |
+| last720d | 2024-09-24 | 100 | 178 | 14 | 24 | 23 | 302 |
 
 ## Release assets
 
@@ -78,17 +78,6 @@ Lowest-scoring checks:
 | [aliyun-cli-windows-3.5.0-amd64.zip](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-windows-3.5.0-amd64.zip) | 74.8 MiB | `native/win/x64` |
 | [SHASUMS256.txt](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/SHASUMS256.txt) | 690 B | `other` |
 
-## Distribution status
-
-Reported by **20** distros on [repology.org](https://repology.org/project/aliyun-cli). **2** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `3.4.11` | ⚠️ outdated |
-| Homebrew | `3.5.0` | ✅ latest |
-| Nix unstable | `3.4.11` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.4.11` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `aliyun-cli` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +87,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:39:53Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:47:01Z._

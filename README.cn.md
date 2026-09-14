@@ -52,18 +52,18 @@ x install aliyun-cli
 
 ## 累计统计
 
-- **发布数**: 361 · **已合并 PR**: 581 · **开放 PR**: 19 · **已关闭 issue**: 251 · **开放 issue**: 37 · **提交数**: 1248
+- **发布数**: 361 · **已合并 PR**: 582 · **开放 PR**: 18 · **已关闭 issue**: 251 · **开放 issue**: 37 · **提交数**: 1248
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 25 | 5 | 0 | 4 | 3 |
-| last60d | 2026-07-15 | 6 | 42 | 6 | 0 | 7 | 10 |
-| 90d | 2026-06-15 | 13 | 60 | 8 | 1 | 7 | 50 |
-| last180d | 2026-03-17 | 35 | 100 | 8 | 8 | 12 | 111 |
-| 360d | 2025-09-18 | 66 | 114 | 14 | 10 | 16 | 153 |
-| last720d | 2024-09-23 | 100 | 177 | 15 | 24 | 23 | 302 |
+| 30d | 2026-08-15 | 1 | 26 | 4 | 0 | 4 | 3 |
+| last60d | 2026-07-16 | 5 | 39 | 5 | 0 | 7 | 10 |
+| 90d | 2026-06-16 | 13 | 61 | 6 | 1 | 7 | 50 |
+| last180d | 2026-03-18 | 35 | 101 | 7 | 8 | 12 | 111 |
+| 360d | 2025-09-19 | 65 | 115 | 13 | 10 | 16 | 153 |
+| last720d | 2024-09-24 | 100 | 178 | 14 | 24 | 23 | 302 |
 
 ## Release 资产
 
@@ -78,17 +78,6 @@ x install aliyun-cli
 | [aliyun-cli-windows-3.5.0-amd64.zip](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-windows-3.5.0-amd64.zip) | 74.8 MiB | `native/win/x64` |
 | [SHASUMS256.txt](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/SHASUMS256.txt) | 690 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/aliyun-cli) 上共有 **20** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**16** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `3.4.11` | ⚠️ outdated |
-| Homebrew | `3.5.0` | ✅ latest |
-| Nix unstable | `3.4.11` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.4.11` | ⚠️ outdated |
-
 ## 改进这些数据
 
 aliyun-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `aliyun-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -98,4 +87,4 @@ aliyun-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T04:39:54Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T04:47:01Z._
