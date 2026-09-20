@@ -4,7 +4,7 @@
 
 Alibaba Cloud CLI
 
-![aliyun-cli](https://repo.x-cmd.io/aliyun-cli.svg?lang=zh)
+[![x-cmd/install — aliyun-cli Code Quality Monitoring Repo Card](https://repo.x-cmd.io/aliyun-cli.svg?lang=zh)](https://x-cmd.com/install/aliyun-cli)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install aliyun-cli
 
 ## 代码洞察
 
-合计: **264,319** 行代码（覆盖前 5 种语言、共 **623** 个文件）。
+合计: **272,922** 行代码（覆盖前 5 种语言、共 **673** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 181,245 | 11,990 | 25,827 | 598 |
+| Go | 189,770 | 12,129 | 26,289 | 648 |
 | Json | 82,266 | 0 | 0 | 9 |
-| Sh | 531 | 29 | 178 | 14 |
-| Makefile | 91 | 4 | 27 | 1 |
+| Sh | 602 | 37 | 186 | 14 |
+| Makefile | 98 | 3 | 30 | 1 |
 | PowerShell | 83 | 0 | 17 | 1 |
 
 ## OpenSSF Scorecard 评分
@@ -42,41 +42,41 @@ x install aliyun-cli
 
 ## 发布
 
-- **最新版本**: `v3.5.0` (2026-09-07)
-- **最近提交**: 2026-09-07
+- **最新版本**: `v3.5.1` (2026-09-18)
+- **最近提交**: 2026-09-18
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 1,105 · **Fork**: 235 · **开放 issue**: 288 · **贡献者**: 58
+- **Star**: 1,104 · **Fork**: 235 · **开放 issue**: 288 · **贡献者**: 58
 
 ## 累计统计
 
-- **发布数**: 361 · **已合并 PR**: 592 · **开放 PR**: 20 · **已关闭 issue**: 252 · **开放 issue**: 36 · **提交数**: 1248
+- **发布数**: 362 · **已合并 PR**: 593 · **开放 PR**: 18 · **已关闭 issue**: 256 · **开放 issue**: 32 · **提交数**: 1250
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 33 | 6 | 1 | 3 | 3 |
-| last60d | 2026-07-20 | 4 | 41 | 7 | 1 | 5 | 10 |
-| 90d | 2026-06-20 | 13 | 70 | 8 | 2 | 6 | 50 |
-| last180d | 2026-03-22 | 34 | 111 | 9 | 8 | 11 | 111 |
-| 360d | 2025-09-23 | 63 | 124 | 15 | 11 | 15 | 153 |
-| last720d | 2024-09-28 | 100 | 187 | 16 | 24 | 22 | 300 |
+| 30d | 2026-08-21 | 2 | 34 | 4 | 2 | 1 | 5 |
+| last60d | 2026-07-22 | 5 | 42 | 4 | 2 | 4 | 8 |
+| 90d | 2026-06-22 | 14 | 70 | 6 | 3 | 5 | 44 |
+| last180d | 2026-03-24 | 35 | 111 | 7 | 10 | 9 | 111 |
+| 360d | 2025-09-25 | 63 | 125 | 13 | 13 | 13 | 154 |
+| last720d | 2024-09-30 | 100 | 188 | 14 | 26 | 20 | 302 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [aliyun-cli-3.5.0.pkg](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-3.5.0.pkg) | 148.6 MiB | `other` |
-| [aliyun-cli-linux-3.5.0-amd64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-linux-3.5.0-amd64.tgz) | 73.6 MiB | `native/linux/x64` |
-| [aliyun-cli-linux-3.5.0-arm64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-linux-3.5.0-arm64.tgz) | 72.3 MiB | `native/linux/arm64` |
-| [aliyun-cli-macosx-3.5.0-amd64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-macosx-3.5.0-amd64.tgz) | 74.9 MiB | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.0-arm64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-macosx-3.5.0-arm64.tgz) | 73.7 MiB | `native/darwin/arm64` |
-| [aliyun-cli-macosx-3.5.0-universal.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-macosx-3.5.0-universal.tgz) | 148.6 MiB | `native/darwin/x64` |
-| [aliyun-cli-windows-3.5.0-amd64.zip](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/aliyun-cli-windows-3.5.0-amd64.zip) | 74.8 MiB | `native/win/x64` |
-| [SHASUMS256.txt](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.0/SHASUMS256.txt) | 690 B | `other` |
+| [aliyun-cli-3.5.1.pkg](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.1/aliyun-cli-3.5.1.pkg) | 149.1 MiB | `other` |
+| [aliyun-cli-linux-3.5.1-amd64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.1/aliyun-cli-linux-3.5.1-amd64.tgz) | 73.8 MiB | `native/linux/x64` |
+| [aliyun-cli-linux-3.5.1-arm64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.1/aliyun-cli-linux-3.5.1-arm64.tgz) | 72.5 MiB | `native/linux/arm64` |
+| [aliyun-cli-macosx-3.5.1-amd64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.1/aliyun-cli-macosx-3.5.1-amd64.tgz) | 75.1 MiB | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.1-arm64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.1/aliyun-cli-macosx-3.5.1-arm64.tgz) | 73.9 MiB | `native/darwin/arm64` |
+| [aliyun-cli-macosx-3.5.1-universal.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.1/aliyun-cli-macosx-3.5.1-universal.tgz) | 149.1 MiB | `native/darwin/x64` |
+| [aliyun-cli-windows-3.5.1-amd64.zip](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.1/aliyun-cli-windows-3.5.1-amd64.zip) | 75.3 MiB | `native/win/x64` |
+| [SHASUMS256.txt](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.1/SHASUMS256.txt) | 690 B | `other` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ aliyun-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:35:46Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:50:46Z._
