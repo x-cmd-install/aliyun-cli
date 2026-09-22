@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
 
 ## Source
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 2 | 34 | 5 | 2 | 1 | 5 |
-| last60d | 2026-07-23 | 5 | 40 | 5 | 2 | 4 | 8 |
-| 90d | 2026-06-23 | 14 | 69 | 7 | 3 | 5 | 44 |
-| last180d | 2026-03-25 | 35 | 111 | 8 | 10 | 9 | 111 |
-| 360d | 2025-09-26 | 63 | 124 | 14 | 13 | 13 | 154 |
-| last720d | 2024-10-01 | 100 | 188 | 15 | 26 | 20 | 302 |
+| 30d | 2026-08-23 | 2 | 34 | 5 | 2 | 1 | 5 |
+| last60d | 2026-07-24 | 5 | 40 | 5 | 2 | 4 | 8 |
+| 90d | 2026-06-24 | 13 | 67 | 7 | 3 | 5 | 44 |
+| last180d | 2026-03-26 | 35 | 111 | 8 | 10 | 9 | 111 |
+| 360d | 2025-09-27 | 63 | 124 | 14 | 13 | 13 | 154 |
+| last720d | 2024-10-02 | 100 | 188 | 15 | 26 | 20 | 302 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T04:47:47Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T04:51:50Z._
