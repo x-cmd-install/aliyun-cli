@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,111 · **Forks**: 234 · **Open issues**: 289 · **Contributors**: 58
+- **Stars**: 1,110 · **Forks**: 234 · **Open issues**: 289 · **Contributors**: 58
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 2 | 20 | 5 | 2 | 1 | 3 |
-| last60d | 2026-08-06 | 2 | 38 | 7 | 2 | 4 | 6 |
-| 90d | 2026-07-07 | 9 | 64 | 8 | 2 | 6 | 34 |
-| last180d | 2026-04-08 | 33 | 109 | 10 | 9 | 10 | 108 |
-| 360d | 2025-10-10 | 63 | 124 | 15 | 13 | 14 | 154 |
-| last720d | 2024-10-15 | 100 | 186 | 17 | 26 | 21 | 297 |
+| 30d | 2026-09-06 | 2 | 20 | 5 | 2 | 1 | 3 |
+| last60d | 2026-08-07 | 2 | 38 | 7 | 2 | 4 | 6 |
+| 90d | 2026-07-08 | 8 | 64 | 8 | 2 | 6 | 34 |
+| last180d | 2026-04-09 | 33 | 109 | 10 | 9 | 10 | 108 |
+| 360d | 2025-10-11 | 63 | 124 | 15 | 13 | 14 | 154 |
+| last720d | 2024-10-16 | 100 | 186 | 17 | 26 | 21 | 296 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:27:15Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:11:14Z._
