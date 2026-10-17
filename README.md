@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 362 · **Merged PRs**: 598 · **Open PRs**: 30 · **Closed issues**: 256 · **Open issues**: 33 · **Commits**: 1255
+- **Releases**: 362 · **Merged PRs**: 598 · **Open PRs**: 31 · **Closed issues**: 256 · **Open issues**: 33 · **Commits**: 1255
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 12 | 12 | 0 | 1 | 7 |
-| last60d | 2026-08-17 | 2 | 42 | 16 | 2 | 3 | 10 |
-| 90d | 2026-07-18 | 5 | 49 | 17 | 2 | 6 | 20 |
-| last180d | 2026-04-19 | 29 | 110 | 19 | 7 | 10 | 105 |
-| 360d | 2025-10-21 | 61 | 128 | 22 | 13 | 13 | 155 |
-| last720d | 2024-10-26 | 100 | 190 | 26 | 26 | 21 | 299 |
+| 30d | 2026-09-17 | 1 | 5 | 13 | 0 | 1 | 7 |
+| last60d | 2026-08-18 | 2 | 39 | 17 | 2 | 3 | 10 |
+| 90d | 2026-07-19 | 5 | 49 | 18 | 2 | 5 | 20 |
+| last180d | 2026-04-20 | 29 | 109 | 20 | 7 | 10 | 105 |
+| 360d | 2025-10-22 | 61 | 128 | 22 | 13 | 13 | 155 |
+| last720d | 2024-10-27 | 100 | 190 | 27 | 26 | 21 | 299 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:22:45Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:14:36Z._
