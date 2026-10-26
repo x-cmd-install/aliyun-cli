@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,121 · **Forks**: 238 · **Open issues**: 289 · **Contributors**: 58
+- **Stars**: 1,122 · **Forks**: 238 · **Open issues**: 289 · **Contributors**: 58
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 18 | 7 | 0 | 1 | 21 |
-| last60d | 2026-08-26 | 3 | 51 | 10 | 2 | 1 | 27 |
-| 90d | 2026-07-27 | 4 | 58 | 10 | 4 | 3 | 27 |
-| last180d | 2026-04-28 | 27 | 119 | 13 | 8 | 7 | 111 |
-| 360d | 2025-10-30 | 60 | 141 | 14 | 15 | 11 | 168 |
-| last720d | 2024-11-04 | 100 | 202 | 20 | 28 | 19 | 314 |
+| 30d | 2026-09-26 | 1 | 18 | 7 | 0 | 1 | 21 |
+| last60d | 2026-08-27 | 3 | 49 | 10 | 2 | 1 | 27 |
+| 90d | 2026-07-28 | 4 | 57 | 10 | 4 | 3 | 27 |
+| last180d | 2026-04-29 | 27 | 117 | 13 | 7 | 7 | 111 |
+| 360d | 2025-10-31 | 60 | 140 | 14 | 15 | 11 | 168 |
+| last720d | 2024-11-05 | 100 | 202 | 20 | 28 | 19 | 314 |
 
 ## Release assets
 
@@ -115,7 +115,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/aliyun-cli). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/aliyun-cli). **3** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -133,4 +133,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:30:50Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:34:35Z._
