@@ -1,3 +1,14 @@
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: aliyun-cli
+  binname: aliyun-cli
+  visiblename: aliyun-cli
+  version: 3.5.1
+  origversion: 3.5.1-1
+  status: outdated
+  summary: Alibaba Cloud CLI
+  licenses:
+    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: aliyun-cli
@@ -74,17 +85,6 @@
   summary: Alibaba Cloud CLI
   licenses:
     - Apache-2.0
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: aliyun-cli
-  binname: aliyun-cli
-  visiblename: aliyun-cli
-  version: 3.5.1
-  origversion: 3.5.1-1
-  status: outdated
-  summary: Alibaba Cloud CLI
-  licenses:
-    - Apache-2.0
 - repo: nix_stable_24_05
   srcname: aliyun-cli
   visiblename: aliyun-cli
@@ -146,9 +146,9 @@
 - repo: nix_unstable
   srcname: aliyun-cli
   visiblename: aliyun-cli
-  version: 3.5.1
+  version: 3.5.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Tool to manage and use Alibaba Cloud resources through a command line interface
   maintainers:
     - ornxka@littledevil.sh
