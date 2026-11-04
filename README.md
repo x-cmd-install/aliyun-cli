@@ -14,11 +14,11 @@ x install aliyun-cli
 
 ## Code insight
 
-Total: **301,605** lines of code across **831** files in the top 5 languages.
+Total: **302,340** lines of code across **833** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 218,328 | 12,474 | 27,929 | 803 |
+| Go | 219,063 | 12,473 | 27,952 | 805 |
 | Json | 82,266 | 0 | 0 | 9 |
 | Sh | 727 | 53 | 193 | 17 |
 | Makefile | 98 | 5 | 30 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.5.2` (2026-10-22)
-- **Last commit**: 2026-11-02
+- **Last commit**: 2026-11-03
 - **Assets in release**: 43
 
 ## Popularity
 
-- **Stars**: 1,130 · **Forks**: 239 · **Open issues**: 289 · **Contributors**: 59
+- **Stars**: 1,132 · **Forks**: 239 · **Open issues**: 289 · **Contributors**: 59
 
 ## Totals (cumulative)
 
-- **Releases**: 363 · **Merged PRs**: 619 · **Open PRs**: 29 · **Closed issues**: 258 · **Open issues**: 31 · **Commits**: 1279
+- **Releases**: 363 · **Merged PRs**: 620 · **Open PRs**: 30 · **Closed issues**: 258 · **Open issues**: 31 · **Commits**: 1280
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 22 | 11 | 0 | 0 | 28 |
-| last60d | 2026-09-04 | 3 | 45 | 14 | 2 | 1 | 31 |
-| 90d | 2026-08-05 | 3 | 63 | 15 | 4 | 2 | 34 |
-| last180d | 2026-05-07 | 26 | 122 | 18 | 7 | 7 | 113 |
-| 360d | 2025-11-08 | 58 | 146 | 19 | 15 | 9 | 171 |
-| last720d | 2024-11-13 | 100 | 208 | 25 | 28 | 19 | 315 |
+| 30d | 2026-10-05 | 1 | 23 | 12 | 0 | 0 | 29 |
+| last60d | 2026-09-05 | 3 | 45 | 15 | 2 | 1 | 32 |
+| 90d | 2026-08-06 | 3 | 64 | 16 | 4 | 2 | 35 |
+| last180d | 2026-05-08 | 26 | 122 | 19 | 7 | 7 | 114 |
+| 360d | 2025-11-09 | 58 | 147 | 20 | 15 | 9 | 172 |
+| last720d | 2024-11-14 | 100 | 209 | 26 | 28 | 19 | 315 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:35:20Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:07:20Z._
