@@ -1,3 +1,14 @@
+- repo: parabola
+  subrepo: extra
+  srcname: aliyun-cli
+  binname: aliyun-cli
+  visiblename: aliyun-cli
+  version: 3.5.1
+  origversion: 3.5.1-1
+  status: outdated
+  summary: Alibaba Cloud CLI
+  licenses:
+    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: aliyun-cli
@@ -41,9 +52,9 @@
 - repo: homebrew
   srcname: aliyun-cli
   visiblename: aliyun-cli
-  version: 3.5.2
+  version: 3.5.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Universal Command-Line Interface for Alibaba Cloud
 - repo: homebrew
   srcname: aliyun-cli
@@ -207,14 +218,3 @@
     - a805899926@gmail.com
   categories:
     - utils
-- repo: parabola
-  subrepo: extra
-  srcname: aliyun-cli
-  binname: aliyun-cli
-  visiblename: aliyun-cli
-  version: 3.5.1
-  origversion: 3.5.1-1
-  status: outdated
-  summary: Alibaba Cloud CLI
-  licenses:
-    - Apache-2.0
