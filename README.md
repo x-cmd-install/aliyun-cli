@@ -14,11 +14,11 @@ x install aliyun-cli
 
 ## Code insight
 
-Total: **317,709** lines of code across **921** files in the top 5 languages.
+Total: **319,228** lines of code across **948** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 234,420 | 13,066 | 28,991 | 892 |
+| Go | 235,939 | 13,082 | 29,119 | 919 |
 | Json | 82,266 | 0 | 0 | 9 |
 | Sh | 739 | 57 | 196 | 18 |
 | Makefile | 98 | 5 | 30 | 1 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,132 · **Forks**: 239 · **Open issues**: 289 · **Contributors**: 59
+- **Stars**: 1,132 · **Forks**: 238 · **Open issues**: 289 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 364 · **Merged PRs**: 623 · **Open PRs**: 28 · **Closed issues**: 258 · **Open issues**: 31 · **Commits**: 1285
+- **Releases**: 364 · **Merged PRs**: 620 · **Open PRs**: 23 · **Closed issues**: 258 · **Open issues**: 31 · **Commits**: 1286
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 26 | 10 | 0 | 0 | 34 |
-| last60d | 2026-09-06 | 4 | 48 | 13 | 2 | 1 | 37 |
-| 90d | 2026-08-07 | 4 | 67 | 14 | 4 | 2 | 40 |
-| last180d | 2026-05-09 | 26 | 125 | 17 | 6 | 7 | 119 |
-| 360d | 2025-11-10 | 59 | 149 | 18 | 15 | 9 | 177 |
-| last720d | 2024-11-15 | 100 | 212 | 24 | 28 | 19 | 319 |
+| 30d | 2026-10-07 | 2 | 25 | 5 | 0 | 0 | 32 |
+| last60d | 2026-09-07 | 4 | 45 | 6 | 2 | 1 | 35 |
+| 90d | 2026-08-08 | 4 | 65 | 9 | 3 | 2 | 38 |
+| last180d | 2026-05-10 | 25 | 121 | 12 | 6 | 7 | 116 |
+| 360d | 2025-11-11 | 58 | 146 | 13 | 15 | 9 | 174 |
+| last720d | 2024-11-16 | 100 | 209 | 19 | 28 | 19 | 320 |
 
 ## Release assets
 
@@ -115,12 +115,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/aliyun-cli). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/aliyun-cli). **2** are ✅ on the latest upstream release, **16** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `3.5.1` | ⚠️ outdated |
-| Homebrew | `3.5.2` | ⚠️ outdated |
+| Homebrew | `3.5.3` | ✅ latest |
 | Nix unstable | `3.5.2` | ⚠️ outdated |
 | openSUSE Tumbleweed | `3.5.2` | ⚠️ outdated |
 
@@ -133,4 +133,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:31:15Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:26:30Z._
