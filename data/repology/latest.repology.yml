@@ -68,23 +68,23 @@
   srcname: aliyun-cli
   binname: aliyun-cli
   visiblename: aliyun-cli
-  version: 3.0.181
-  origversion: 3.0.181-1
+  version: 3.4.11
+  origversion: 3.4.11-1
   status: outdated
   summary: Alibaba Cloud CLI
   licenses:
-    - Apache
+    - Apache-2.0
 - repo: manjaro_testing
   subrepo: extra
   srcname: aliyun-cli
   binname: aliyun-cli
   visiblename: aliyun-cli
-  version: 3.0.181
-  origversion: 3.0.181-1
+  version: 3.5.1
+  origversion: 3.5.1-1
   status: outdated
   summary: Alibaba Cloud CLI
   licenses:
-    - Apache
+    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: aliyun-cli
