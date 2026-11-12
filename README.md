@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,134 · **Forks**: 238 · **Open issues**: 290 · **Contributors**: 58
+- **Stars**: 1,135 · **Forks**: 238 · **Open issues**: 290 · **Contributors**: 58
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 2 | 23 | 4 | 0 | 1 | 30 |
-| last60d | 2026-09-12 | 3 | 40 | 5 | 0 | 2 | 36 |
-| 90d | 2026-08-13 | 4 | 66 | 8 | 3 | 3 | 39 |
-| last180d | 2026-05-15 | 25 | 117 | 11 | 6 | 7 | 112 |
-| 360d | 2025-11-16 | 57 | 147 | 12 | 15 | 10 | 174 |
-| last720d | 2024-11-21 | 100 | 209 | 18 | 28 | 20 | 320 |
+| 30d | 2026-10-13 | 2 | 22 | 3 | 0 | 1 | 30 |
+| last60d | 2026-09-13 | 3 | 40 | 5 | 0 | 2 | 36 |
+| 90d | 2026-08-14 | 4 | 66 | 8 | 3 | 3 | 39 |
+| last180d | 2026-05-16 | 24 | 117 | 11 | 6 | 7 | 112 |
+| 360d | 2025-11-17 | 57 | 147 | 12 | 15 | 10 | 174 |
+| last720d | 2024-11-22 | 100 | 209 | 18 | 28 | 20 | 320 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T05:59:36Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T07:11:08Z._
