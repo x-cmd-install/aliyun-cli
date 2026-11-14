@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 163563419,
       "digest": "sha256:61728fa17f16619d89a181cd7dbeedfebda313ec41862fbb641cd09ceca1163d",
-      "download_count": 24,
+      "download_count": 28,
       "created_at": "2026-11-05T05:04:56Z",
       "updated_at": "2026-11-05T05:05:06Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-3.5.3.pkg"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 81006775,
       "digest": "sha256:defcbc01a28c9bbb27706fd53473020175a96886186df176dfa934ab6661fbde",
-      "download_count": 3081,
+      "download_count": 4107,
       "created_at": "2026-11-05T05:00:39Z",
       "updated_at": "2026-11-05T05:00:42Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-amd64.tgz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 203,
       "digest": "sha256:11d04a7dfc8526135ba7811d53e9a788365769dad4490efe4dd9107c0c9ffe4d",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-05T05:00:45Z",
       "updated_at": "2026-11-05T05:00:46Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-amd64.tgz.cdx.json.minisig"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 194,
       "digest": "sha256:04abf3b86171b84506412b257dc6f82b004420356b427beb05a40a3eba28fffb",
-      "download_count": 11,
+      "download_count": 13,
       "created_at": "2026-11-05T05:00:43Z",
       "updated_at": "2026-11-05T05:00:43Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-amd64.tgz.minisig"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 210,
       "digest": "sha256:ef74ddacaaa2b3a38b093a5d2f0617acaa9c87d36fd6a9a0a6283ba1667f2ae6",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-05T05:00:48Z",
       "updated_at": "2026-11-05T05:00:49Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-amd64.tgz.provenance.json.minisig"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 79564954,
       "digest": "sha256:c9986e8f13a1910fe70b9d6354808d8d0e758505129742b28d29358f875f3907",
-      "download_count": 114,
+      "download_count": 124,
       "created_at": "2026-11-05T05:01:10Z",
       "updated_at": "2026-11-05T05:01:14Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-arm64.tgz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 203,
       "digest": "sha256:a3804604fdbd5d5fdc452c7dee506c88569ce4f7e4293d18dec3fd40a395c144",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T05:01:17Z",
       "updated_at": "2026-11-05T05:01:18Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-arm64.tgz.cdx.json.minisig"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 194,
       "digest": "sha256:d2de722967df3d853e01ec7c80e1fdefb826f2e15144e1061c3e7771f698da1f",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-05T05:01:15Z",
       "updated_at": "2026-11-05T05:01:15Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-arm64.tgz.minisig"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 210,
       "digest": "sha256:e5c7278a6830ccd4c20a2bfde5078278c93c48c9fe865e7d4e4fbffb213c85b4",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T05:01:20Z",
       "updated_at": "2026-11-05T05:01:20Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-arm64.tgz.provenance.json.minisig"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 82444954,
       "digest": "sha256:5775475b1e2632285f1333d1a02010e318412c27ae0877a22dd96e6dc5632732",
-      "download_count": 75,
+      "download_count": 90,
       "created_at": "2026-11-05T05:02:48Z",
       "updated_at": "2026-11-05T05:02:51Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-amd64.tgz"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 204,
       "digest": "sha256:2ab62654a42d27928f18a083f005321d7d16b0534039193f7cd6d100dc053a9a",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T05:02:56Z",
       "updated_at": "2026-11-05T05:02:56Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-amd64.tgz.cdx.json.minisig"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 195,
       "digest": "sha256:6921f71dccaf968847ec13b33ada6b6cda2182fec1996628dc6015a42d8a762b",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-05T05:02:52Z",
       "updated_at": "2026-11-05T05:02:52Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-amd64.tgz.minisig"
@@ -895,7 +895,7 @@
       "state": "uploaded",
       "size": 211,
       "digest": "sha256:bf8a9ca4e33dea3da2c98cb5be1b1cb1981f3aec286ca939e8e548b6d0bb9859",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T05:03:00Z",
       "updated_at": "2026-11-05T05:03:00Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-amd64.tgz.provenance.json.minisig"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 81090453,
       "digest": "sha256:ae692c4f55b22edb3931b74a666f634f28b5a0704cbda4d51ee9b0667f46f580",
-      "download_count": 409,
+      "download_count": 456,
       "created_at": "2026-11-05T05:03:18Z",
       "updated_at": "2026-11-05T05:03:22Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-arm64.tgz"
@@ -1003,7 +1003,7 @@
       "state": "uploaded",
       "size": 204,
       "digest": "sha256:6909e6be967a06efec8fe2692a0036df24826396f553bbc3633194d09d9f55ed",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T05:03:27Z",
       "updated_at": "2026-11-05T05:03:28Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-arm64.tgz.cdx.json.minisig"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 195,
       "digest": "sha256:367d9ba6ce4272030b5c347512aec443fbf2228ca07b3cca844132894832e228",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-05T05:03:24Z",
       "updated_at": "2026-11-05T05:03:24Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-arm64.tgz.minisig"
@@ -1111,7 +1111,7 @@
       "state": "uploaded",
       "size": 211,
       "digest": "sha256:893f09ccb5fe3b1f793cf96cbad1c8adefc96a929b57c08c56d01ae0f42639d7",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T05:03:31Z",
       "updated_at": "2026-11-05T05:03:31Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-arm64.tgz.provenance.json.minisig"
@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 163536705,
       "digest": "sha256:a1775ab8393d1b28a0b7a2175f5f27e33f1800d7ec8f42223966ed032d0bba6e",
-      "download_count": 31,
+      "download_count": 33,
       "created_at": "2026-11-05T05:03:40Z",
       "updated_at": "2026-11-05T05:03:46Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-universal.tgz"
@@ -1363,7 +1363,7 @@
       "state": "uploaded",
       "size": 81667999,
       "digest": "sha256:5728fbbd3480cfcba8b77bd04773553c9c69e60487b7668c32f241a610373bab",
-      "download_count": 1060,
+      "download_count": 1229,
       "created_at": "2026-11-05T05:02:36Z",
       "updated_at": "2026-11-05T05:02:43Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-windows-3.5.3-amd64.zip"
@@ -1435,7 +1435,7 @@
       "state": "uploaded",
       "size": 205,
       "digest": "sha256:fdcc46fa757f30cd3b1adae522085f2eb3a10849224c9e3570972e90ba102d54",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-05T05:02:48Z",
       "updated_at": "2026-11-05T05:02:48Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-windows-3.5.3-amd64.zip.cdx.json.minisig"
@@ -1471,7 +1471,7 @@
       "state": "uploaded",
       "size": 196,
       "digest": "sha256:1a5d7172a482e95c5bd68f072ad6134103d83d52a7b13aebbcb224325cfbf193",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-05T05:02:44Z",
       "updated_at": "2026-11-05T05:02:44Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-windows-3.5.3-amd64.zip.minisig"
@@ -1543,7 +1543,7 @@
       "state": "uploaded",
       "size": 212,
       "digest": "sha256:0bd89fa42340b034f63a0e7df1f4d66eccdfa8ee84a306cdab18872e203d95be",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-05T05:02:51Z",
       "updated_at": "2026-11-05T05:02:51Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-windows-3.5.3-amd64.zip.provenance.json.minisig"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 690,
       "digest": "sha256:0dd3a93042c912f5004cdfde21b257b83f4ba4122e03859d981b5e7767ee49c1",
-      "download_count": 788,
+      "download_count": 888,
       "created_at": "2026-11-05T05:06:29Z",
       "updated_at": "2026-11-05T05:06:29Z",
       "browser_download_url": "https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/SHASUMS256.txt"
