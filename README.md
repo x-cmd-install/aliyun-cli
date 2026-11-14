@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 20 | 2 | 0 | 1 | 31 |
-| last60d | 2026-09-14 | 3 | 40 | 4 | 0 | 2 | 37 |
-| 90d | 2026-08-15 | 4 | 67 | 7 | 3 | 3 | 40 |
-| last180d | 2026-05-17 | 24 | 118 | 10 | 6 | 7 | 113 |
-| 360d | 2025-11-18 | 57 | 148 | 11 | 15 | 10 | 175 |
-| last720d | 2024-11-23 | 100 | 210 | 17 | 28 | 20 | 321 |
+| 30d | 2026-10-15 | 2 | 15 | 2 | 0 | 1 | 31 |
+| last60d | 2026-09-15 | 3 | 39 | 4 | 0 | 2 | 37 |
+| 90d | 2026-08-16 | 4 | 67 | 7 | 3 | 3 | 40 |
+| last180d | 2026-05-18 | 24 | 118 | 10 | 6 | 7 | 113 |
+| 360d | 2025-11-19 | 57 | 148 | 11 | 15 | 10 | 175 |
+| last720d | 2024-11-24 | 100 | 210 | 17 | 28 | 20 | 321 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:31:30Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:09:49Z._
