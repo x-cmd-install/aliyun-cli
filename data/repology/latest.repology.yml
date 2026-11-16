@@ -25,9 +25,9 @@
 - repo: chocolatey
   binname: aliyun-cli
   visiblename: Alibaba Cloud CLI (aliyun-cli)
-  version: 3.5.2
+  version: 3.5.3
   origversion: null
-  status: outdated
+  status: newest
   summary: The Alibaba Cloud CLI is a tool to manage and use Alibaba Cloud resources through a command line interface.
 - repo: chromebrew
   srcname: aliyun_cli
