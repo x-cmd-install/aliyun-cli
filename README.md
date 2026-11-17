@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,138 · **Forks**: 238 · **Open issues**: 290 · **Contributors**: 58
+- **Stars**: 1,140 · **Forks**: 238 · **Open issues**: 290 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 364 · **Merged PRs**: 622 · **Open PRs**: 21 · **Closed issues**: 258 · **Open issues**: 32 · **Commits**: 1288
+- **Releases**: 364 · **Merged PRs**: 622 · **Open PRs**: 20 · **Closed issues**: 258 · **Open issues**: 32 · **Commits**: 1288
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 14 | 2 | 0 | 1 | 15 |
-| last60d | 2026-09-17 | 3 | 30 | 4 | 0 | 2 | 35 |
-| 90d | 2026-08-18 | 4 | 64 | 7 | 3 | 3 | 40 |
-| last180d | 2026-05-20 | 24 | 117 | 10 | 6 | 7 | 109 |
-| 360d | 2025-11-21 | 56 | 148 | 10 | 15 | 10 | 174 |
-| last720d | 2024-11-26 | 100 | 209 | 17 | 28 | 20 | 321 |
+| 30d | 2026-10-18 | 2 | 14 | 2 | 0 | 1 | 15 |
+| last60d | 2026-09-18 | 3 | 30 | 3 | 0 | 2 | 35 |
+| 90d | 2026-08-19 | 4 | 64 | 6 | 3 | 3 | 40 |
+| last180d | 2026-05-21 | 24 | 117 | 9 | 6 | 7 | 109 |
+| 360d | 2025-11-22 | 56 | 148 | 9 | 15 | 10 | 174 |
+| last720d | 2024-11-27 | 100 | 209 | 16 | 28 | 20 | 321 |
 
 ## Release assets
 
@@ -115,14 +115,14 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/aliyun-cli). **6** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/aliyun-cli). **8** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `3.5.3` | ✅ latest |
 | Homebrew | `3.5.3` | ✅ latest |
 | Nix unstable | `3.5.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.5.2` | ⚠️ outdated |
+| openSUSE Tumbleweed | `3.5.3` | ✅ latest |
 
 ## Improve this data
 
@@ -133,4 +133,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T06:16:37Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:54:19Z._
