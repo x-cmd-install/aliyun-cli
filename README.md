@@ -14,15 +14,15 @@ x install aliyun-cli
 
 ## Code insight
 
-Total: **321,516** lines of code across **960** files in the top 5 languages.
+Total: **329,275** lines of code across **1023** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 238,002 | 13,264 | 29,271 | 930 |
+| Go | 245,524 | 13,627 | 29,916 | 986 |
 | Json | 82,491 | 0 | 0 | 10 |
-| Sh | 739 | 57 | 196 | 18 |
-| Makefile | 98 | 5 | 30 | 1 |
-| PowerShell | 83 | 0 | 17 | 1 |
+| Sh | 957 | 79 | 223 | 19 |
+| Makefile | 103 | 7 | 30 | 1 |
+| Bash | 92 | 17 | 18 | 7 |
 
 ## OpenSSF Scorecard
 
@@ -30,8 +30,8 @@ Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v3.5.3` (2026-11-05)
-- **Last commit**: 2026-11-12
+- **Last commit**: 2026-11-19
 - **Assets in release**: 43
 
 ## Popularity
 
-- **Stars**: 1,140 · **Forks**: 238 · **Open issues**: 290 · **Contributors**: 58
+- **Stars**: 1,143 · **Forks**: 239 · **Open issues**: 290 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 364 · **Merged PRs**: 622 · **Open PRs**: 20 · **Closed issues**: 258 · **Open issues**: 32 · **Commits**: 1288
+- **Releases**: 364 · **Merged PRs**: 625 · **Open PRs**: 16 · **Closed issues**: 258 · **Open issues**: 32 · **Commits**: 1292
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 14 | 2 | 0 | 1 | 15 |
-| last60d | 2026-09-18 | 3 | 30 | 3 | 0 | 2 | 35 |
-| 90d | 2026-08-19 | 4 | 64 | 6 | 3 | 3 | 40 |
-| last180d | 2026-05-21 | 24 | 117 | 9 | 6 | 7 | 109 |
-| 360d | 2025-11-22 | 56 | 148 | 9 | 15 | 10 | 174 |
-| last720d | 2024-11-27 | 100 | 209 | 16 | 28 | 20 | 321 |
+| 30d | 2026-10-20 | 2 | 17 | 2 | 0 | 1 | 19 |
+| last60d | 2026-09-20 | 2 | 33 | 3 | 0 | 2 | 39 |
+| 90d | 2026-08-21 | 4 | 67 | 3 | 2 | 3 | 44 |
+| last180d | 2026-05-23 | 24 | 117 | 5 | 6 | 7 | 113 |
+| 360d | 2025-11-24 | 56 | 151 | 5 | 15 | 10 | 178 |
+| last720d | 2024-11-29 | 100 | 212 | 12 | 28 | 20 | 324 |
 
 ## Release assets
 
@@ -133,4 +133,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:54:19Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:24:22Z._
