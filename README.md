@@ -42,87 +42,87 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v3.5.3` (2026-11-05)
+- **Latest**: `v3.5.4` (2026-11-19)
 - **Last commit**: 2026-11-19
 - **Assets in release**: 43
 
 ## Popularity
 
-- **Stars**: 1,143 · **Forks**: 239 · **Open issues**: 290 · **Contributors**: 58
+- **Stars**: 1,142 · **Forks**: 239 · **Open issues**: 290 · **Contributors**: 58
 
 ## Totals (cumulative)
 
-- **Releases**: 364 · **Merged PRs**: 625 · **Open PRs**: 16 · **Closed issues**: 258 · **Open issues**: 32 · **Commits**: 1292
+- **Releases**: 365 · **Merged PRs**: 625 · **Open PRs**: 16 · **Closed issues**: 258 · **Open issues**: 32 · **Commits**: 1292
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 17 | 2 | 0 | 1 | 19 |
-| last60d | 2026-09-20 | 2 | 33 | 3 | 0 | 2 | 39 |
-| 90d | 2026-08-21 | 4 | 67 | 3 | 2 | 3 | 44 |
-| last180d | 2026-05-23 | 24 | 117 | 5 | 6 | 7 | 113 |
-| 360d | 2025-11-24 | 56 | 151 | 5 | 15 | 10 | 178 |
-| last720d | 2024-11-29 | 100 | 212 | 12 | 28 | 20 | 324 |
+| 30d | 2026-10-21 | 3 | 14 | 1 | 0 | 1 | 19 |
+| last60d | 2026-09-21 | 3 | 33 | 3 | 0 | 2 | 39 |
+| 90d | 2026-08-22 | 5 | 67 | 3 | 2 | 3 | 44 |
+| last180d | 2026-05-24 | 24 | 117 | 5 | 6 | 7 | 113 |
+| 360d | 2025-11-25 | 57 | 151 | 5 | 15 | 10 | 178 |
+| last720d | 2024-11-30 | 100 | 212 | 12 | 27 | 20 | 324 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [aliyun-cli-3.5.3.pkg](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-3.5.3.pkg) | 156.0 MiB | `other` |
-| [aliyun-cli-3.5.3.pkg.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-3.5.3.pkg.cdx.json) | 9.3 KiB | `other` |
-| [aliyun-cli-3.5.3.pkg.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-3.5.3.pkg.cdx.json.minisig) | 191 B | `other` |
-| [aliyun-cli-3.5.3.pkg.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-3.5.3.pkg.minisig) | 182 B | `other` |
-| [aliyun-cli-3.5.3.pkg.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-3.5.3.pkg.provenance.json) | 579 B | `other` |
-| [aliyun-cli-3.5.3.pkg.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-3.5.3.pkg.provenance.json.minisig) | 198 B | `other` |
-| [aliyun-cli-linux-3.5.3-amd64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-amd64.tgz) | 77.3 MiB | `native/linux/x64` |
-| [aliyun-cli-linux-3.5.3-amd64.tgz.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-amd64.tgz.cdx.json) | 9.3 KiB | `native/linux/x64` |
-| [aliyun-cli-linux-3.5.3-amd64.tgz.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-amd64.tgz.cdx.json.minisig) | 203 B | `native/linux/x64` |
-| [aliyun-cli-linux-3.5.3-amd64.tgz.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-amd64.tgz.minisig) | 194 B | `native/linux/x64` |
-| [aliyun-cli-linux-3.5.3-amd64.tgz.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-amd64.tgz.provenance.json) | 603 B | `native/linux/x64` |
-| [aliyun-cli-linux-3.5.3-amd64.tgz.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-amd64.tgz.provenance.json.minisig) | 210 B | `native/linux/x64` |
-| [aliyun-cli-linux-3.5.3-arm64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-arm64.tgz) | 75.9 MiB | `native/linux/arm64` |
-| [aliyun-cli-linux-3.5.3-arm64.tgz.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-arm64.tgz.cdx.json) | 9.3 KiB | `native/linux/arm64` |
-| [aliyun-cli-linux-3.5.3-arm64.tgz.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-arm64.tgz.cdx.json.minisig) | 203 B | `native/linux/arm64` |
-| [aliyun-cli-linux-3.5.3-arm64.tgz.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-arm64.tgz.minisig) | 194 B | `native/linux/arm64` |
-| [aliyun-cli-linux-3.5.3-arm64.tgz.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-arm64.tgz.provenance.json) | 603 B | `native/linux/arm64` |
-| [aliyun-cli-linux-3.5.3-arm64.tgz.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-linux-3.5.3-arm64.tgz.provenance.json.minisig) | 210 B | `native/linux/arm64` |
-| [aliyun-cli-macosx-3.5.3-amd64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-amd64.tgz) | 78.6 MiB | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-amd64.tgz.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-amd64.tgz.cdx.json) | 9.3 KiB | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-amd64.tgz.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-amd64.tgz.cdx.json.minisig) | 204 B | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-amd64.tgz.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-amd64.tgz.minisig) | 195 B | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-amd64.tgz.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-amd64.tgz.provenance.json) | 605 B | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-amd64.tgz.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-amd64.tgz.provenance.json.minisig) | 211 B | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-arm64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-arm64.tgz) | 77.3 MiB | `native/darwin/arm64` |
-| [aliyun-cli-macosx-3.5.3-arm64.tgz.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-arm64.tgz.cdx.json) | 9.3 KiB | `native/darwin/arm64` |
-| [aliyun-cli-macosx-3.5.3-arm64.tgz.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-arm64.tgz.cdx.json.minisig) | 204 B | `native/darwin/arm64` |
-| [aliyun-cli-macosx-3.5.3-arm64.tgz.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-arm64.tgz.minisig) | 195 B | `native/darwin/arm64` |
-| [aliyun-cli-macosx-3.5.3-arm64.tgz.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-arm64.tgz.provenance.json) | 605 B | `native/darwin/arm64` |
-| [aliyun-cli-macosx-3.5.3-arm64.tgz.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-arm64.tgz.provenance.json.minisig) | 211 B | `native/darwin/arm64` |
-| [aliyun-cli-macosx-3.5.3-universal.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-universal.tgz) | 156.0 MiB | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-universal.tgz.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-universal.tgz.cdx.json) | 9.3 KiB | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-universal.tgz.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-universal.tgz.cdx.json.minisig) | 208 B | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-universal.tgz.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-universal.tgz.minisig) | 199 B | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-universal.tgz.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-universal.tgz.provenance.json) | 613 B | `native/darwin/x64` |
-| [aliyun-cli-macosx-3.5.3-universal.tgz.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-macosx-3.5.3-universal.tgz.provenance.json.minisig) | 215 B | `native/darwin/x64` |
-| [aliyun-cli-windows-3.5.3-amd64.zip](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-windows-3.5.3-amd64.zip) | 77.9 MiB | `native/win/x64` |
-| [aliyun-cli-windows-3.5.3-amd64.zip.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-windows-3.5.3-amd64.zip.cdx.json) | 9.3 KiB | `native/win/x64` |
-| [aliyun-cli-windows-3.5.3-amd64.zip.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-windows-3.5.3-amd64.zip.cdx.json.minisig) | 205 B | `native/win/x64` |
-| [aliyun-cli-windows-3.5.3-amd64.zip.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-windows-3.5.3-amd64.zip.minisig) | 196 B | `native/win/x64` |
-| [aliyun-cli-windows-3.5.3-amd64.zip.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-windows-3.5.3-amd64.zip.provenance.json) | 607 B | `native/win/x64` |
-| [aliyun-cli-windows-3.5.3-amd64.zip.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/aliyun-cli-windows-3.5.3-amd64.zip.provenance.json.minisig) | 212 B | `native/win/x64` |
-| [SHASUMS256.txt](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.3/SHASUMS256.txt) | 690 B | `other` |
+| [aliyun-cli-3.5.4.pkg](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-3.5.4.pkg) | 160.7 MiB | `other` |
+| [aliyun-cli-3.5.4.pkg.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-3.5.4.pkg.cdx.json) | 9.0 KiB | `other` |
+| [aliyun-cli-3.5.4.pkg.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-3.5.4.pkg.cdx.json.minisig) | 191 B | `other` |
+| [aliyun-cli-3.5.4.pkg.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-3.5.4.pkg.minisig) | 182 B | `other` |
+| [aliyun-cli-3.5.4.pkg.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-3.5.4.pkg.provenance.json) | 579 B | `other` |
+| [aliyun-cli-3.5.4.pkg.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-3.5.4.pkg.provenance.json.minisig) | 198 B | `other` |
+| [aliyun-cli-linux-3.5.4-amd64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-amd64.tgz) | 79.6 MiB | `native/linux/x64` |
+| [aliyun-cli-linux-3.5.4-amd64.tgz.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-amd64.tgz.cdx.json) | 9.0 KiB | `native/linux/x64` |
+| [aliyun-cli-linux-3.5.4-amd64.tgz.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-amd64.tgz.cdx.json.minisig) | 203 B | `native/linux/x64` |
+| [aliyun-cli-linux-3.5.4-amd64.tgz.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-amd64.tgz.minisig) | 194 B | `native/linux/x64` |
+| [aliyun-cli-linux-3.5.4-amd64.tgz.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-amd64.tgz.provenance.json) | 603 B | `native/linux/x64` |
+| [aliyun-cli-linux-3.5.4-amd64.tgz.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-amd64.tgz.provenance.json.minisig) | 210 B | `native/linux/x64` |
+| [aliyun-cli-linux-3.5.4-arm64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-arm64.tgz) | 78.2 MiB | `native/linux/arm64` |
+| [aliyun-cli-linux-3.5.4-arm64.tgz.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-arm64.tgz.cdx.json) | 9.0 KiB | `native/linux/arm64` |
+| [aliyun-cli-linux-3.5.4-arm64.tgz.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-arm64.tgz.cdx.json.minisig) | 203 B | `native/linux/arm64` |
+| [aliyun-cli-linux-3.5.4-arm64.tgz.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-arm64.tgz.minisig) | 194 B | `native/linux/arm64` |
+| [aliyun-cli-linux-3.5.4-arm64.tgz.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-arm64.tgz.provenance.json) | 603 B | `native/linux/arm64` |
+| [aliyun-cli-linux-3.5.4-arm64.tgz.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-linux-3.5.4-arm64.tgz.provenance.json.minisig) | 210 B | `native/linux/arm64` |
+| [aliyun-cli-macosx-3.5.4-amd64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-amd64.tgz) | 81.0 MiB | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-amd64.tgz.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-amd64.tgz.cdx.json) | 9.0 KiB | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-amd64.tgz.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-amd64.tgz.cdx.json.minisig) | 204 B | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-amd64.tgz.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-amd64.tgz.minisig) | 195 B | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-amd64.tgz.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-amd64.tgz.provenance.json) | 605 B | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-amd64.tgz.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-amd64.tgz.provenance.json.minisig) | 211 B | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-arm64.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-arm64.tgz) | 79.7 MiB | `native/darwin/arm64` |
+| [aliyun-cli-macosx-3.5.4-arm64.tgz.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-arm64.tgz.cdx.json) | 9.0 KiB | `native/darwin/arm64` |
+| [aliyun-cli-macosx-3.5.4-arm64.tgz.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-arm64.tgz.cdx.json.minisig) | 204 B | `native/darwin/arm64` |
+| [aliyun-cli-macosx-3.5.4-arm64.tgz.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-arm64.tgz.minisig) | 195 B | `native/darwin/arm64` |
+| [aliyun-cli-macosx-3.5.4-arm64.tgz.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-arm64.tgz.provenance.json) | 605 B | `native/darwin/arm64` |
+| [aliyun-cli-macosx-3.5.4-arm64.tgz.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-arm64.tgz.provenance.json.minisig) | 211 B | `native/darwin/arm64` |
+| [aliyun-cli-macosx-3.5.4-universal.tgz](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-universal.tgz) | 160.7 MiB | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-universal.tgz.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-universal.tgz.cdx.json) | 9.0 KiB | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-universal.tgz.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-universal.tgz.cdx.json.minisig) | 208 B | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-universal.tgz.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-universal.tgz.minisig) | 199 B | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-universal.tgz.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-universal.tgz.provenance.json) | 613 B | `native/darwin/x64` |
+| [aliyun-cli-macosx-3.5.4-universal.tgz.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-macosx-3.5.4-universal.tgz.provenance.json.minisig) | 215 B | `native/darwin/x64` |
+| [aliyun-cli-windows-3.5.4-amd64.zip](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-windows-3.5.4-amd64.zip) | 80.4 MiB | `native/win/x64` |
+| [aliyun-cli-windows-3.5.4-amd64.zip.cdx.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-windows-3.5.4-amd64.zip.cdx.json) | 9.0 KiB | `native/win/x64` |
+| [aliyun-cli-windows-3.5.4-amd64.zip.cdx.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-windows-3.5.4-amd64.zip.cdx.json.minisig) | 205 B | `native/win/x64` |
+| [aliyun-cli-windows-3.5.4-amd64.zip.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-windows-3.5.4-amd64.zip.minisig) | 196 B | `native/win/x64` |
+| [aliyun-cli-windows-3.5.4-amd64.zip.provenance.json](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-windows-3.5.4-amd64.zip.provenance.json) | 607 B | `native/win/x64` |
+| [aliyun-cli-windows-3.5.4-amd64.zip.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-windows-3.5.4-amd64.zip.provenance.json.minisig) | 212 B | `native/win/x64` |
+| [SHASUMS256.txt](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/SHASUMS256.txt) | 690 B | `other` |
 
 ## Distribution status
 
-Reported by **20** distros on [repology.org](https://repology.org/project/aliyun-cli). **8** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
+Reported by **20** distros on [repology.org](https://repology.org/project/aliyun-cli). **1** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `3.5.3` | ✅ latest |
-| Homebrew | `3.5.3` | ✅ latest |
+| Arch | `3.5.3` | ⚠️ outdated |
+| Homebrew | `3.5.4` | ✅ latest |
 | Nix unstable | `3.5.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.5.3` | ✅ latest |
+| openSUSE Tumbleweed | `3.5.3` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -133,4 +133,4 @@ Install metadata for aliyun-cli lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:24:22Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:08:42Z._
