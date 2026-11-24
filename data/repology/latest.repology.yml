@@ -9,15 +9,6 @@
   summary: Alibaba Cloud CLI
   licenses:
     - Apache-2.0
-- repo: chromebrew
-  srcname: aliyun_cli
-  visiblename: aliyun_cli
-  version: 3.5.4
-  origversion: null
-  status: newest
-  summary: Alibaba Cloud CLI
-  licenses:
-    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: aliyun-cli
@@ -33,9 +24,9 @@
   srcname: aliyun-cli-bin
   binname: aliyun-cli-bin
   visiblename: aliyun-cli-bin
-  version: 3.5.3
-  origversion: 3.5.3-1
-  status: outdated
+  version: 3.5.4
+  origversion: 3.5.4-1
+  status: newest
   summary: A cross-platform command-line tool for managing Alibaba Cloud resources through OpenAPI.
   maintainers:
     - trevordf@aur
@@ -49,6 +40,15 @@
   origversion: null
   status: outdated
   summary: The Alibaba Cloud CLI is a tool to manage and use Alibaba Cloud resources through a command line interface.
+- repo: chromebrew
+  srcname: aliyun_cli
+  visiblename: aliyun_cli
+  version: 3.5.4
+  origversion: null
+  status: newest
+  summary: Alibaba Cloud CLI
+  licenses:
+    - Apache-2.0
 - repo: homebrew
   srcname: aliyun-cli
   visiblename: aliyun-cli
@@ -68,8 +68,8 @@
   srcname: aliyun-cli
   binname: aliyun-cli
   visiblename: aliyun-cli
-  version: 3.4.11
-  origversion: 3.4.11-1
+  version: 3.5.3
+  origversion: 3.5.3-2
   status: outdated
   summary: Alibaba Cloud CLI
   licenses:
