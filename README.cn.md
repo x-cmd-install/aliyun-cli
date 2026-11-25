@@ -58,12 +58,12 @@ x install aliyun-cli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 13 | 0 | 0 | 1 | 15 |
-| last60d | 2026-09-25 | 3 | 33 | 3 | 0 | 2 | 38 |
-| 90d | 2026-08-26 | 5 | 66 | 3 | 2 | 2 | 44 |
-| last180d | 2026-05-28 | 24 | 114 | 5 | 6 | 7 | 104 |
-| 360d | 2025-11-29 | 55 | 151 | 5 | 15 | 10 | 175 |
-| last720d | 2024-12-04 | 100 | 210 | 12 | 27 | 20 | 324 |
+| 30d | 2026-10-26 | 2 | 13 | 0 | 0 | 1 | 15 |
+| last60d | 2026-09-26 | 3 | 33 | 3 | 0 | 2 | 38 |
+| 90d | 2026-08-27 | 5 | 64 | 3 | 2 | 2 | 44 |
+| last180d | 2026-05-29 | 23 | 113 | 5 | 6 | 7 | 104 |
+| 360d | 2025-11-30 | 55 | 151 | 5 | 15 | 10 | 175 |
+| last720d | 2024-12-05 | 100 | 210 | 12 | 27 | 20 | 322 |
 
 ## Release 资产
 
@@ -113,17 +113,6 @@ x install aliyun-cli
 | [aliyun-cli-windows-3.5.4-amd64.zip.provenance.json.minisig](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/aliyun-cli-windows-3.5.4-amd64.zip.provenance.json.minisig) | 212 B | `native/win/x64` |
 | [SHASUMS256.txt](https://github.com/aliyun/aliyun-cli/releases/download/v3.5.4/SHASUMS256.txt) | 690 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/aliyun-cli) 上共有 **20** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**15** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `3.5.3` | ⚠️ outdated |
-| Homebrew | `3.5.4` | ✅ latest |
-| Nix unstable | `3.5.2` | ⚠️ outdated |
-| openSUSE Tumbleweed | `3.5.3` | ⚠️ outdated |
-
 ## 改进这些数据
 
 aliyun-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `aliyun-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -133,4 +122,4 @@ aliyun-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261124.yml` · 2026-11-24T09:44:35Z._
+_数据快照: `data/card/261125.yml` · 2026-11-25T08:23:35Z._
